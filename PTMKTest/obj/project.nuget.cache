@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nDuEggSG7YvzrO3isECZHwh4lo5+75u8bMGbDOHXhyXTrcX7nz3NmwvRf3b4uJ0XdPaDXD9o2X+wGyq9GBdjIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniil\\Desktop\\PTMKTest\\PTMKTest\\PTMKTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniil\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Daniil\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Daniil\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
